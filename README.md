@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/iulian-cenusa/frontend-mentor-nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://frontend-mentor-nft-preview-card-component.vercel.app/)
 
 ## My process
 
